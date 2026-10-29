@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.a
+syspulse
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
